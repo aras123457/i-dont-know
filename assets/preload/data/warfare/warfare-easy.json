@@ -4426,7 +4426,7 @@
 		"validScore": true,
 		"needsVoices": true,
 		"stage": "military",
-		"speed": 2.6,
+		"speed": 1.9,
 		"bpm": 240
 	}
 }
